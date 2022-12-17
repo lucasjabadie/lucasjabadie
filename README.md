@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Information Security Network with firewalls settings to protect LAN users and DMZ Web & Mail Server</b>
+- <b>Information Security</b>
   - [DMZ Network with pfSense](https://www.youtube.com/watch?v=chg6lG-5gS4&list=PLXv8PtRl7dcGusjH4zWEQKvl7H8PJ6Li0)
 - <b>Azure</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
