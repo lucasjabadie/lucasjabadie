@@ -2,28 +2,22 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>CyberSecurity SIEM/IPS</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Information Security Network with firewalls settings to protect LAN users and DMZ Web & Mail Server</b>
+  - [DMZ Network with pfSense](https://www.youtube.com/watch?v=chg6lG-5gS4&list=PLXv8PtRl7dcGusjH4zWEQKvl7H8PJ6Li0)
 - <b>Azure</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 - <b>Active Directory</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- <b>DMZ Network</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   
 <h2>📄 Certifications</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CCNA](https://www.credly.com/badges/a2fab605-d5fe-45cd-8dde-0e89a47a1758/linked_in_profile)
 
 <h2>📺 YouTube Playlists</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [DMZ Network with pfSense](https://www.youtube.com/watch?v=chg6lG-5gS4&list=PLXv8PtRl7dcGusjH4zWEQKvl7H8PJ6Li0)
 
 <h2> 🤳 Connect with me:</h2>
 
