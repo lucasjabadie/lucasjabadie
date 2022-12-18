@@ -4,9 +4,8 @@
 
 - <b>Information Security</b>
   - [DMZ Network with pfSense](https://www.youtube.com/watch?v=chg6lG-5gS4&list=PLXv8PtRl7dcGusjH4zWEQKvl7H8PJ6Li0)
-- <b>Azure</b>
+- <b>Cybersecurity</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 - <b>Active Directory</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
