@@ -1,14 +1,11 @@
-<h1>Hi, I'm Lucas! <br/><a href="https://www.linkedin.com/in/labadietech/">IT Support</a>, <a href="https://www.youtube.com/channel/UCrqNsZ86SjxdAxLP_x8rqQw">YouTuber wannabe</a></h1>
+<h1>Hi, I'm Lucas! <br/><a href="https://www.linkedin.com/in/labadietech/">IT Support</a>, <a href="https://www.youtube.com/channel/UCrqNsZ86SjxdAxLP_x8rqQw">Network Security Analyst</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Information Security</b>
   - [DMZ Network with pfSense](https://www.youtube.com/watch?v=chg6lG-5gS4&list=PLXv8PtRl7dcGusjH4zWEQKvl7H8PJ6Li0)
-- <b>Cybersecurity</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- <b>Active Directory</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>Networking</b>
+  - [Implementing OSPF on Cisco and Juniper](https://github.com/labadietech/implementing-ospf-cisco-juniper)
   
 <h2>📄 Certifications</h2>
 
