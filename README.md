@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Information Security</b>
-  - [DMZ Network with pfSense](https://www.youtube.com/watch?v=chg6lG-5gS4&list=PLXv8PtRl7dcGusjH4zWEQKvl7H8PJ6Li0)
+  - [DMZ Network with pfSense](https://github.com/labadietech/dmz-network-pfsense)
 - <b>Networking</b>
   - [Implementing OSPF on Cisco and Juniper](https://github.com/labadietech/implementing-ospf-cisco-juniper)
   
