@@ -1,5 +1,4 @@
-<h1>Hi, I'm Lucas! <br/><a href="https://www.linkedin.com/in/labadietech/">Network Admin</a>, <a href="https://www.youtube.com/channel/UCrqNsZ86SjxdAxLP_x8rqQw">System Administrator</a></h1>
-
+<h1>Hi, I'm Lucas! <br/><a href="https://www.linkedin.com/in/labadietech/">Network Admin</a>
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Information Security</b>
