@@ -1,7 +1,7 @@
 <h1>Hi, I'm Lucas! <br/><a href="https://www.linkedin.com/in/labadietech/">Network Admin</a>
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Networking | Network Security</b>
+- <b>Networking</b>
   - [DMZ Network with pfSense](https://github.com/labadietech/dmz-network-pfsense)
   - [Implementing OSPF on Cisco and Juniper](https://github.com/labadietech/implementing-ospf-cisco-juniper)
 - <b>Python</b>
