@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lucas! <br/><a href="https://www.linkedin.com/in/labadietech/">Network Admin</a>
+<h1>Hi, I'm Lucas! <br/><a href="https://www.linkedin.com/in/lucasjabadie/">Network Admin</a>
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Networking</b>
