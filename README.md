@@ -19,4 +19,4 @@
 [<img align="left" alt="labadie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCrqNsZ86SjxdAxLP_x8rqQw
-[linkedin]: https://www.linkedin.com/in/labadietech/
+[linkedin]: https://www.linkedin.com/in/lucasjabadie/
