@@ -8,7 +8,7 @@
 <h2>📄 Certifications</h2>
 
 - [CCNA](https://www.credly.com/badges/a2fab605-d5fe-45cd-8dde-0e89a47a1758/linked_in_profile)
-- [CCNP]
+- [CCNP](https://www.credly.com/badges/970223b7-d319-491a-8479-d48e4aa3f3eb)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="labadie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
